@@ -6,7 +6,7 @@
 
 ### Link a la pagina del proyecto
 
-[Bemarking](https://bemarking.netlify.app/)
+[Bemarking](bemarking2.netlify.app)
 
 ***
 
@@ -40,7 +40,7 @@ Es un sitio single page que cuenta con las siguientes secciones:
 + Servicios 
 + Contacto
 
-En el cual, hemos tratado de representar una pagina web sobre una empresa de marketing digital que se centra en el ambito de brindar diferentes servicios para mejorar y potenciar una empresa. Hemos implementado una API del clima y ademas otra que manda mails al propietario de la pagina cuando alguien llena un formulario de consultas. Para haber quedado unicamente 2 integrantes , estamos satisfechos con el trabajo realizado.
+En el cual, hemos tratado de representar una pagina web sobre una empresa de marketing digital que se centra en el ambito de brindar diferentes servicios para mejorar y potenciar una empresa. Hemos implementado una API del clima (https://openweathermap.org/api/one-call-3) y ademas otra que manda mails al propietario de la pagina cuando alguien llena un formulario de consultas (https://formspree.io/f/mzbloadr). Para haber quedado unicamente 2 integrantes , estamos satisfechos con el trabajo realizado.
 
 #### Repositorio a Git-Hub
 
